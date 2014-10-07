@@ -1,0 +1,33 @@
+{
+  "name": "PT Sans Caption",
+  "designer": "ParaType",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Sans Serif",
+  "size": 197494,
+  "fonts": [
+    {
+      "name": "PT Sans Caption",
+      "style": "normal",
+      "weight": 700,
+      "filename": "PTSansCaption-Bold.ttf",
+      "postScriptName": "PTSans-CaptionBold",
+      "fullName": "PT Sans Caption Bold",
+      "copyright": "Copyright (c) 2009 ParaType Ltd. All rights reserved."
+    },
+    {
+      "name": "PT Sans Caption",
+      "style": "normal",
+      "weight": 400,
+      "filename": "PTSansCaption-Regular.ttf",
+      "postScriptName": "PTSans-Caption",
+      "fullName": "PT Sans Caption",
+      "copyright": "Copyright (c) 2009 ParaType Ltd. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2010-09-21"
+}
